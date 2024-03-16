@@ -1,0 +1,2 @@
+Objects are instances of a class in a programming language. Objects represents the real life entity. When a class is created, memory is not allocated but when it is instantiated that time the memory is allocated to the object.
+Classes is blueprint of the objects
